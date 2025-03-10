@@ -1,0 +1,14 @@
+altgraph==0.17.4
+comtypes==1.4.10
+packaging==24.2
+pefile==2023.2.7
+pyinstaller==6.12.0
+pyinstaller-hooks-contrib==2025.1
+pyperclip==1.9.0
+PySide6==6.8.2.1
+PySide6_Addons==6.8.2.1
+PySide6_Essentials==6.8.2.1
+pywifi @ git+https://github.com/baihengaead/pywifi.git@c9ef8d67a9ea000a61f1be97beedeb976ab02767
+pywin32==308
+pywin32-ctypes==0.2.3
+shiboken6==6.8.2.1
